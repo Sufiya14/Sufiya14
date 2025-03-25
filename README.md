@@ -1,4 +1,4 @@
-## Hi there 👋
+<!--## Hi there 👋-->
 <h1 align="center">Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Sufiya</h1>
 
 <p align="center">
@@ -23,7 +23,7 @@ Software Engineer with 1.5+ years of experience in full-stack development. Passi
 ![HTML](https://img.shields.io/badge/-html-0095D5?style=for-the-badge&logo=html&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-0095D5?style=for-the-badge&logo=Node.js&logoColor=white)
-![.NETCore](https://img.shields.io/badge/-.NET Core-02569B?style=for-the-badge&logo=.NETCore&logoColor=white)
+![.NETCore](https://img.shields.io/badge/-.NETCore-02569B?style=for-the-badge&logo=.NETCore&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-0175C2?style=for-the-badge&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-F7DF1E?style=for-the-badge&logo=aws&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -38,31 +38,30 @@ Software Engineer with 1.5+ years of experience in full-stack development. Passi
 
 ## 🚀 Featured Projects
 
-### 📱 Educational Course Application
-A comprehensive educational platform supporting 50,000+ users
-- **Tech Stack**: Flutter, Dart, Socket, REST APIs, SQLite
+### 📱  Online Bookstore Website
+A comprehensive bookstore website supporting multiple users
+- **Tech Stack**:  React.js, Redux, TypeScript, HTML5, CSS3
 - **Key Achievements**:
-  - Implemented secure API communication with local data encryption
-  - Reduced load times by 25% through efficient state management
-  - Achieved 4.5-star rating on app stores
+  - Developed responsive e-commerce platform with intuitive UI/UX Implemented advanced state management for improved performance Achieved 25% increase in user engagement through optimized design
+
 - **[View Project →](your-repo-link)**
 
-### 🎓 AI-Powered E-Learning Platform
-Modular educational platform supporting 100,000+ concurrent users
-- **Tech Stack**: Android, Kotlin, Jetpack Compose
+### 🎓 Contacts Management Application
+- **Tech Stack**: React Native, Redux Persist, SQLite
 - **Key Features**:
-  - AI-driven personalized learning paths
-  - Offline-first architecture
-  - Real-time language translation
+  -  Built a cross platform mobile app for efficient contact management.
+  -   Implemented offline functionality using Redux Persist and SQLite for seamless user experience.
+  -   Designed and developed features for CRUD operations on contacts, including photo management.
+    
 - **[View Project →](your-repo-link)**
 
-### 🎥 Video Conferencing Plugin
-Cross-platform video conferencing solution supporting 1,000 concurrent users
-- **Tech Stack**: Flutter, Dart, Zoom SDK, Firebase
+### 📱 Blog Post Application
+Created a scalable blog application with optimized frontend performance.
+- **Tech Stack**: React.js, Redux, HTML5, CSS, JavaScript
 - **Highlights**:
-  - End-to-end encryption
-  - 20% reduced latency
-  - Customizable UI kit
+  -   Implemented client-side caching and progressive loading for improved user experience.
+  -  Utilized modern JavaScript features for efficient data handling and state management.
+  -  Maintained consistent cross-browser compatibility across Chrome, Firefox, and Safari
 - **[View Project →](your-repo-link)**
 
 ## 📊 GitHub Stats
@@ -84,6 +83,8 @@ I'm always interested in connecting with fellow developers and discussing mobile
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sufiya-6ab562223/)
 [<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/Sufiya14)
 [<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:sufiya1406@gmail.com)
+
+
 <!--
 **Sufiya14/Sufiya14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
